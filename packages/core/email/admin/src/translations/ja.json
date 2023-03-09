@@ -1,4 +1,5 @@
 {
+  "link": "Link",
   "Settings.email.plugin.button.test-email": "メール送信のテスト",
   "Settings.email.plugin.label.defaultFrom": "デフォルトの送信アドレス",
   "Settings.email.plugin.label.defaultReplyTo": "デフォルトの返信アドレス",

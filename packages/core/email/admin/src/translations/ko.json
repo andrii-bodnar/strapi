@@ -1,4 +1,5 @@
 {
+  "link": "Link",
   "Settings.email.plugin.button.test-email": "테스트 발송",
   "Settings.email.plugin.label.defaultFrom": "기본 발송자 이메일",
   "Settings.email.plugin.label.defaultReplyTo": "기본 수신자 이메일",
